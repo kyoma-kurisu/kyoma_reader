@@ -1,15 +1,3 @@
-cs
-cs2
-counter stirke2
-比赛
-+major
-!集锦
-
-galgame
-视觉小说
-国产
-!小说
-!网文
 
 DeepSeek
 梁文锋
@@ -111,3 +99,8 @@ cpu
 支持
 
 十五五
+
+安徽
+上海
+
+
